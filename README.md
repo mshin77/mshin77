@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+My name is **Mikyung Shin**. I am an Assistant Professor of Special Education at West Texas A&M University. ✨ _I have a demonstrated history of working in the special education industry_. Skilled in Data Analysis, Microsoft Office, Statistics, and Research. Strong education professional with a Doctor of Philosophy (Ph.D.) focused in Special Education from The University of Texas at Austin. 
+
 **mshin77/mshin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
