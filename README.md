@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is **Mikyung Shin**. I will be an Assistant Professor in the Department of Special Education at [_Illinois State University_](https://illinoisstate.edu). 
+My name is **Mikyung Shin**. I will be an Assistant Professor in the Department of Special Education at [_Illinois State University_]. 
 
 - ✨ I am a bilingual (Korean/English) educator and have supported students, families, and communities from diverse backgrounds. 
 - ⚡I specialize in mathematics, special education, technology, meta-analysis, artificial intelligence, natural language processing, and programming languages. 
