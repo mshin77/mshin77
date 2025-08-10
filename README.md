@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/badge/Website-mshin77.net-0077B5?style=flat)](https://www.mshin77.net)
 [![Email](https://img.shields.io/badge/Email-mshin77%40ilstu.edu-EA4335?style=flat)](mailto:mshin77@ilstu.edu)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=flat)](https://scholar.google.com/citations?user=YOUR_ID)
-![Profile Views](https://komarev.com/ghpvc/?username=mshin77&style=flat&color=brightgreen)
 
 ## About Me
 
