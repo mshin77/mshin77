@@ -28,13 +28,15 @@ I bridge the gap between **research**, **technology**, and **education** to crea
 
 ## Featured Projects
 
+[![Software](https://img.shields.io/badge/View_All_Software-→-blue?style=flat)](https://www.mshin77.net/software/)
+
 | Project | Description |
 |---------|-------------|
-| **[FunFraction](https://funfraction.org/)** | Accessible fraction learning platform designed for students with mathematics difficulties |
-| **[Math Tutor](https://fraction-tutor.pages.dev/)** | Voice assistant for fraction word problem solving |
-| **[COLAB Math](https://colab-math.pages.dev/)** | Voice assistant for building a math lesson plan |
-| **[TextAnalysisR](https://www.textanalysisr.org/)** | R Shiny web app for text mining analysis with quanteda, stm, and network analysis tools |
-| **[Bayesian Modeling](https://mshin77.github.io/tech-assisted/)** | Bayesian multilevel modeling scripts for evaluating intervention effects in a single-case design |
+| Fun Fraction | Accessible fraction learning platform designed for students with mathematics difficulties |
+| Math Tutor | Voice assistant for fraction word problem solving |
+| COLAB Math | Voice assistant for building a math lesson plan |
+| TextAnalysisR | R Shiny web app for text mining analysis with quanteda, stm, and network analysis tools |
+| Bayesian Modeling | Bayesian multilevel modeling for evaluating intervention effects in a single-case design |
 
 ## Collaboration
 
