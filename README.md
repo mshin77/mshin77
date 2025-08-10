@@ -7,8 +7,6 @@
 
 ## About Me
 
-**Assistant Professor** | Department of Special Education | Illinois State University
-
 I bridge the gap between **research**, **technology**, and **education** to create inclusive learning environments for diverse learners. Bilingual in Korean and English, I bring a global perspective to educational innovation.
 
 ## What I Do
